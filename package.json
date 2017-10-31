@@ -1,0 +1,24 @@
+{
+  "name": "vue-multiselect-test",
+  "version": "1.0.0",
+  "description": "Demonstrating that styles don't work",
+  "license": "UNLICENSED",
+  "contributors": [],
+  "main": "./src/demo.js",
+  "devDependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1",
+    "node-sass": "^4.5.3",
+    "vinyl-source-stream": "^1.1.0",
+    "vue": "^2.4.1",
+    "vueify": "9.0.0"
+  },
+  "dependencies": {
+    "vue-multiselect": "^2.0.6"
+  }
+}
